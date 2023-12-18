@@ -8,7 +8,7 @@ Hacktoberfest Hall of Fame : https://www.holopin.io/hacktoberfest2023/hall/@krys
 
 [![](https://holopin.me/krystizz)](https://holopin.io/@krystizz)
 
-List of Contributions :
+List of Contributions (User ID visible as contributor) :
 1. https://github.com/20sw084/3-Months-Preparation-Kit-HackerRank/pull/136
 2. https://github.com/ankit0313/Leetcode-Problems/pull/53
 3. https://github.com/JenilGajjar20/Competitive-Programming_problems/pull/137
